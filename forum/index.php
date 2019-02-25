@@ -50,6 +50,7 @@
 <hr>
 <div class="forum">
     <h2>Форум</h2>
+
     <?
     $allComments = $connection->query("SELECT * FROM comments ORDER BY id DESC");
     foreach ($allComments as $comment) {
