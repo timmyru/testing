@@ -48,7 +48,6 @@
 </form>
 
 <hr>
-
 <div class="forum">
     <h2>Форум</h2>
     <?
